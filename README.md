@@ -3,23 +3,23 @@
 ### 주제 : 카페 키오스크 시스템 구현
 
 ### 팀원 구성
-- 임동규
-- 장우재
-- 오다솔
+- [오다솔](https://github.com/ohdasol)
+- [임동규](https://github.com/dongkyuu)
+- [장우재](https://github.com/WoojaeJang)
 
 ### 프로젝트 내용 : 카페 키오스크 시스템
 
 ### 프로젝트 기간 : 2022/02/10~ 2022/02/11
 
 ### 핵심 기능
-1. 고객
-  1.1. 주문
-  1.2. 주문 현황 확인
-  1.3. 회원가입
+- <고객>
+  - 주문
+  - 주문 현황 확인
+  - 회원가입
 
-2. 직원
-  2.1. 주문 현황 확인
-  2.2. 주문 상태 변경하기
+- <직원>
+  - 주문 현황 확인
+  - 주문 상태 변경하기
 
 ### 동작 구조
 - MVC  
@@ -36,19 +36,19 @@
 - 초기 화면
 ![customer](./image/customer.JPG)
 
-- 주문
+- 기능1 - 1. 주문 하기
 ![order](./image/order.JPG)
 
-- 결제 완료
+- 기능1 - 2. 결제 완료
 ![payment](./image/payment.JPG)
 
-- 주문 현황 확인
+- 기능2 - 주문 현황 확인
 ![customer_order_check](./image/customer_order_check.JPG)
 
-- 회원가입
+- 기능3 - 회원가입 하기
 ![signup](./image/signup.JPG)
 
-- 회원가입 결과
+- 기능3 - 회원가입 결과
 ![signup_result](./image/signup_result.JPG)
 
   - DB에 추가된 결과  
@@ -60,7 +60,7 @@
 - 초기 화면
 ![employee](./image/employee.JPG)
 
-- 주문 현황 확인
+- 기능1 - 주문 현황 확인
 ![employee_order_check](./image/employee_order_check.JPG)
 
 <hr>
