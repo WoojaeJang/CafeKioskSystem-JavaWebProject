@@ -1,7 +1,7 @@
 # CafeKioskSystem-JavaWebProject
-Java Web Project - 
-## 주제 : 카페 키오스크 시스템 구현
-===============
+
+### 주제 : 카페 키오스크 시스템 구현
+
 ### 팀원 구성
 - 임동규
 - 장우재
