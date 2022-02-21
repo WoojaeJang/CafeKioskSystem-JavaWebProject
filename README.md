@@ -3,9 +3,9 @@
 ### 주제 : 카페 키오스크 시스템 구현
 
 ### 팀원 구성
-- [오다솔](https://github.com/ohdasol)
-- [임동규](https://github.com/dongkyuu)
-- [장우재](https://github.com/WoojaeJang)
+- <a href="https://github.com/ohdasol" target="_blank">오다솔</a>
+- <a href="https://github.com/dongkyuu" target="_blank">임동규</a>
+- <a href="https://github.com/WoojaeJang" target="_blank">장우재</a>
 
 ### 프로젝트 내용 : 카페 키오스크 시스템
 
