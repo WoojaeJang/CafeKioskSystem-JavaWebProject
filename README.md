@@ -35,24 +35,33 @@ Java Web Project -
 ### <고객>
 - 초기 화면
 ![customer](./image/customer.JPG)
+
 - 주문
 ![order](./image/order.JPG)
+
 - 결제 완료
 ![payment](./image/payment.JPG)
-- 주문 현황 확인
-![customer_order_check](https://user-images.githubusercontent.com/97461823/154827534-8bdaa783-e69c-4459-958a-89062695d424.JPG)
-- 회원가입
-![signup](https://user-images.githubusercontent.com/97461823/154827549-286c73c8-fba4-4884-9823-08e4602d82fc.JPG)
-- 회원가입 결과
-![signup_result](https://user-images.githubusercontent.com/97461823/154827555-f83322af-e732-49d9-9c3e-b302f24bfb57.JPG)
-  - DB에 추가된 결과  
-  ![signup_result_db](https://user-images.githubusercontent.com/97461823/154827558-99327eb6-7b50-453f-8938-8b72d015ffe2.JPG)  
 
+- 주문 현황 확인
+![customer_order_check](./image/customer_order_check.JPG)
+
+- 회원가입
+![signup](./image/signup.JPG)
+
+- 회원가입 결과
+![signup_result](./image/signup_result.JPG)
+
+  - DB에 추가된 결과  
+  ![signup_result_db](./image/signup_result_db.JPG)  
+    
+    
+    
 ### <직원>
 - 초기 화면
-![employee](https://user-images.githubusercontent.com/97461823/154826865-983c5b7b-3a93-417f-813b-f619d3350242.JPG)
+![employee](./image/employee.JPG)
+
 - 주문 현황 확인
-![employee_order_check](https://user-images.githubusercontent.com/97461823/154827562-89aa0892-9b94-4a94-952f-b994904c6e10.JPG)
+![employee_order_check](./image/employee_order_check.JPG)
 
 <hr>
 
