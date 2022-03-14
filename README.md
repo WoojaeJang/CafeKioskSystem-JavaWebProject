@@ -1,4 +1,4 @@
-# Java 기반 Tomcat, JSP, Servlet을 활용하여 카페 키오스크 시스템 구현
+# JSP, Servlet, Tomcat을 활용하여 카페 키오스크 시스템 구현
 
 
 ## 👨‍👨‍👦‍👦 프로젝트 구성원
