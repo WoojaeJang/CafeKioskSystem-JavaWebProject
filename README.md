@@ -25,46 +25,81 @@
 
 
 ## ⚙️ 프로젝트 동작 구조
-- MVC  
-![MVC](./README_images/01_MVC.JPG)
+- MVC
 
-- DB 구성 (ERD)  
-![ERD](./README_images/02_ERD.JPG)
+|![MVC](./README_images/01_MVC.JPG)|
+|---|
+
+
+- DB 구성 (ERD)
+
+|![ERD](./README_images/02_ERD.JPG)|
+|---|
+
 
 
 ## 📽️ 프로젝트 실행 화면 1 - 고객
 - 초기 화면
-![customer](./README_images/03_customer.JPG)
+
+|![customer](./README_images/03_customer.JPG)|
+|---|
 
 - 기능1 - 1. 주문 하기
-![order](./README_images/04_order.JPG)
+
+|![order](./README_images/04_order.JPG)|
+|---|
+
 
 - 기능1 - 2. 결제 완료
-![payment](./README_images/05_payment.JPG)
+
+|![payment](./README_images/05_payment.JPG)|
+|---|
+
 
 - 기능2 - 주문 현황 확인
-![customer_order_check](./README_images/06_customer_order_check.JPG)
+
+|![customer_order_check](./README_images/06_customer_order_check.JPG)|
+|---|
+
 
 - 기능3 - 회원가입 하기
-![signup](./README_images/07_signup.JPG)
+
+|![signup](./README_images/07_signup.JPG)|
+|---|
+
 
 - 기능3 - 회원가입 결과
-![signup_result](./README_images/08_signup_result.JPG)
+
+|![signup_result](./README_images/08_signup_result.JPG)|
+|---|
+
 
 - DB에 추가된 결과  
-![signup_result_db](./README_images/09_signup_result_db.JPG)  
+
+|![signup_result_db](./README_images/09_signup_result_db.JPG)  |
+|---|
+
 
     
     
 ## 📽️ 프로젝트 실행 화면 2 - 직원
 - 초기 화면
-![employee](./README_images/10_employee.JPG)
+
+|![employee](./README_images/10_employee.JPG)|
+|---|
+
 
 - 기능1 - 주문 현황 확인
-![employee_order_check](./README_images/11_employee_order_check.JPG)
+
+|![employee_order_check](./README_images/11_employee_order_check.JPG)|
+|---|
+
 
 - 기능2 - 주문 상태 변경하기
-![employee_order_change](./README_images/12_employee_order_change.JPG)
+
+|![employee_order_change](./README_images/12_employee_order_change.JPG)|
+|---|
+
 
 
 ## ❗ Issues
